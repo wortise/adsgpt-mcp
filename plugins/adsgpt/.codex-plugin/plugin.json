@@ -1,13 +1,13 @@
 {
   "name": "adsgpt",
-  "version": "1.0.6",
+  "version": "1.0.7",
   "description": "Create, review and optimize ad campaigns on the ad platforms connected to AdsGPT, such as Google Ads: the AdsGPT MCP server and the skills that guide it.",
   "author": {
     "name": "Wortise",
     "url": "https://wortise.com"
   },
   "homepage": "https://adsgpt.dev",
-  "repository": "https://github.com/wortise/adsgpt-mcp",
+  "repository": "https://github.com/wortise/agent-plugins",
   "license": "MIT",
   "keywords": [
     "adsgpt",
@@ -30,8 +30,8 @@
       "Edit campaigns"
     ],
     "websiteURL": "https://adsgpt.dev",
-    "supportURL": "https://github.com/wortise/adsgpt-mcp/issues",
-    "privacyPolicyURL": "https://github.com/wortise/adsgpt-mcp/blob/main/PRIVACY.md",
+    "supportURL": "https://github.com/wortise/agent-plugins/issues",
+    "privacyPolicyURL": "https://github.com/wortise/agent-plugins/blob/main/plugins/adsgpt/PRIVACY.md",
     "termsOfServiceURL": "https://adsgpt.dev/terms-and-conditions",
     "defaultPrompt": [
       "How did my Google Ads campaigns do last week?",

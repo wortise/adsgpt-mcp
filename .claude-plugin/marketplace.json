@@ -1,6 +1,6 @@
 {
-  "name": "adsgpt-mcp",
-  "description": "The AdsGPT package for AI clients: the AdsGPT MCP server and its skills.",
+  "name": "wortise",
+  "description": "Wortise's plugins for AI agents, such as AdsGPT.",
   "owner": {
     "name": "Wortise",
     "url": "https://wortise.com"
@@ -8,7 +8,7 @@
   "plugins": [
     {
       "name": "adsgpt",
-      "source": "./",
+      "source": "./plugins/adsgpt",
       "description": "Create, review and optimize ad campaigns on the ad platforms connected to AdsGPT, such as Google Ads."
     }
   ]
